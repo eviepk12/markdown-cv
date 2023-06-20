@@ -1,91 +1,65 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: M. Zainal Abidin CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Muhammad Zainal Abidin
+
+Software Engineer, Amateur Dungeon Master, Data Science Enthusiast.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="eviepk12.github.io">eviepk12.github.io</a>
+|
+<a href="instagram.com/eviepk12">instagram</a>
+|
+<a href="github.com/eviepk12">github</a>
 </div>
 
+## Profile
 
-## Currently
+I am a locally sourced geek with an unquenching thirst for knowledge of *the spirit that lives within the computer*  :
 
-Standing on the shoulders of giants
+### Specialization
 
-### Specialized in
+- Mobile Development **(Flutter, Kotlin)**
+- Web Development **(HTML, CSS, PHP, Jekyll, Flask, Django)**
+- The art of the bodge **(My skills of "googling things as I go along" knows no bounds!!)**
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Special Interests
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+- Data Science / analytics
+- Computer Science
+- Philosophy **(epistemology)**
+- Software Engineering
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017-2020`
+__Junior High School Pelita Bangsa GIS, Tangerang Selatan.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Head of OSIS
 
-- Sizar
+`2020 - now`
+__Vocational High School Letris 2, Tangerang Selatan.__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+- 4th Budi Luhur Algorithm Competition
+- Erlangga English Speech Competition
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2018`
+Head of OSIS
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+`2018`
+Award of Leadership, OSIS Pelita Bangsa
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2023`
+__Back End Mobile Development__, Hexa Digital Solusindo
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- Back end mobile developer
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
