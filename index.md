@@ -53,7 +53,7 @@ Head of OSIS
 `2018`
 Award of Leadership, OSIS Pelita Bangsa
 
-## Occupation
+## Experience
 
 `2023`
 __Back End Mobile Development__, Hexa Digital Solusindo
