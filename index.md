@@ -42,8 +42,8 @@ __Junior High School Pelita Bangsa GIS, Tangerang Selatan.__
 `2020 - now`
 __Vocational High School Letris 2, Tangerang Selatan.__
 
-- 4th Budi Luhur Algorithm Competition
-- Erlangga English Speech Competition
+- Budi Luhur Algorithm Competition
+- Quarter Finalist Erlangga English Speech Competition JABODETABEK
 
 ## Awards
 
