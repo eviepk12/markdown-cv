@@ -22,7 +22,7 @@ I am a locally sourced geek with an unquenching thirst for knowledge of *the spi
 ### Specialization
 
 - Mobile Development **(Flutter, Kotlin)**
-- Web Development **(HTML, CSS, PHP, Jekyll, Flask, Django)**
+- Web Development **(HTML, CSS, PHP, Jekyll, Django)**
 - The art of the bodge **(My skills of "googling things as I go along" knows no bounds!!)**
 
 ### Special Interests
@@ -42,8 +42,8 @@ __Junior High School Pelita Bangsa GIS, Tangerang Selatan.__
 `2020 - now`
 __Vocational High School Letris 2, Tangerang Selatan.__
 
-- 4th Budi Luhur Algorithm Competition
-- Erlangga English Speech Competition
+- Budi Luhur Algorithm Competition
+- Quarter Finalist Erlangga English Speech Competition JABODETABEK
 
 ## Awards
 
@@ -52,6 +52,9 @@ Head of OSIS
 
 `2018`
 Award of Leadership, OSIS Pelita Bangsa
+
+`2023`
+Quarter Finalist Erlangga English Speech Competition JABODETABEK
 
 ## Occupation
 
