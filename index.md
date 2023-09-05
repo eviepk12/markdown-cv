@@ -53,7 +53,7 @@ Head of OSIS
 `2018`
 Award of Leadership, OSIS Pelita Bangsa
 
-'2023'
+`2023`
 Quarter Finalist Erlangga English Speech Competition JABODETABEK
 
 ## Experience
