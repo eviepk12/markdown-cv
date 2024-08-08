@@ -34,16 +34,19 @@ I am a locally sourced geek with an unquenching thirst for knowledge of *the spi
 
 ## Education
 
-`2017-2020`
+`2018-2021`
 __Junior High School Pelita Bangsa GIS, Tangerang Selatan.__
 
 - Head of OSIS
 
-`2020 - now`
+`2021 - 2024`
 __Vocational High School Letris 2, Tangerang Selatan.__
 
 - Budi Luhur Algorithm Competition
 - Quarter Finalist Erlangga English Speech Competition JABODETABEK
+
+`2024 - now`
+__Sebelas Maret University (D3 Informatics Engineering)__
 
 ## Awards
 
