@@ -45,6 +45,9 @@ __Vocational High School Letris 2, Tangerang Selatan.__
 - Budi Luhur Algorithm Competition
 - Quarter Finalist Erlangga English Speech Competition JABODETABEK
 
+`2024 - now`
+__Sebelas Maret University (D3 Informatics Engineering)__
+
 ## Awards
 
 `2018`
