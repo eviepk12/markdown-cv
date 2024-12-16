@@ -59,6 +59,9 @@ Award of Leadership, OSIS Pelita Bangsa
 `2023`
 Quarter Finalist Erlangga English Speech Competition JABODETABEK
 
+`2024`
+Finalist Vocation of the Champions UI/UX Competition
+
 ## Experience
 
 `2023`
